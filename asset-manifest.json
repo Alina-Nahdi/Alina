@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Alina/static/css/main.4c37ab83.chunk.css",
+    "main.js": "/Alina/static/js/main.914f5636.chunk.js",
+    "main.js.map": "/Alina/static/js/main.914f5636.chunk.js.map",
+    "runtime-main.js": "/Alina/static/js/runtime-main.319ff1bd.js",
+    "runtime-main.js.map": "/Alina/static/js/runtime-main.319ff1bd.js.map",
+    "static/js/2.6ad072e7.chunk.js": "/Alina/static/js/2.6ad072e7.chunk.js",
+    "static/js/2.6ad072e7.chunk.js.map": "/Alina/static/js/2.6ad072e7.chunk.js.map",
+    "index.html": "/Alina/index.html",
+    "precache-manifest.a45eee053fcece1dbeb9c0344b2b3d52.js": "/Alina/precache-manifest.a45eee053fcece1dbeb9c0344b2b3d52.js",
+    "service-worker.js": "/Alina/service-worker.js",
+    "static/css/main.4c37ab83.chunk.css.map": "/Alina/static/css/main.4c37ab83.chunk.css.map",
+    "static/js/2.6ad072e7.chunk.js.LICENSE.txt": "/Alina/static/js/2.6ad072e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.319ff1bd.js",
+    "static/js/2.6ad072e7.chunk.js",
+    "static/css/main.4c37ab83.chunk.css",
+    "static/js/main.914f5636.chunk.js"
+  ]
+}
